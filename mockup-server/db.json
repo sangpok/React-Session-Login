@@ -1,0 +1,10 @@
+{
+  "members": [
+    {
+      "id": 0,
+      "email": "sangpok@example.com",
+      "password": "sangpok",
+      "nickname": "김 주핸"
+    }
+  ]
+}
